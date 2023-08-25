@@ -1,4 +1,4 @@
-### Hi I'm Ozodbek Akromov <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif">
+### Hi I'm Ozodbek Akromov <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="20px" height="20px">
 ### Follow my instagram account [@avazovic___](https://instagram.com/avazovic___/)
 ### Languages and tools I work with:
 <code><img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="30px"></code>

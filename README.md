@@ -1,4 +1,4 @@
-### Hi I'm Ozodbek Akromov <img src="<iframe src="https://giphy.com/embed/gM5qFksULw54NMWyry" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hello-wave-hand-gM5qFksULw54NMWyry">via GIPHY</a></p>">
+### Hi I'm Ozodbek Akromov <img src="iframe src="https://giphy.com/embed/gM5qFksULw54NMWyry">
 ### Follow my instagram account [@avazovic___](https://instagram.com/avazovic___/)
 ### Languages and tools I work with:
 <code><img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="30px"></code>

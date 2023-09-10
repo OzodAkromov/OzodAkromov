@@ -1,4 +1,4 @@
-### Hi I'm Ozodbek Akromov 👋
+### ✨ Who am I?
 ### Follow my instagram account: [@avazovic___](https://instagram.com/avazovic___/)
 ### 💻 Technologies that I use
 

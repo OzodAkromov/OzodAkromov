@@ -1,6 +1,6 @@
 ### ✨ Who am I?
 ### My name is Ozod and I am a school student. My goals for the future are huge. God willing, I will be a great IT expert!
-### Follow my instagram account: <img src="https://img.freepik.com/premium-vector/purple-gradiend-social-media-logo_197792-1883.jpg?w=2000"> [@avazovic___](https://instagram.com/avazovic___/)
+### Follow my instagram account: <img src="https://img.freepik.com/premium-vector/purple-gradiend-social-media-logo_197792-1883.jpg?w=2000" width="116px" height="48px"> [@avazovic___](https://instagram.com/avazovic___/)
 ### 💻 Technologies that I use:
 
 <div display="flex">

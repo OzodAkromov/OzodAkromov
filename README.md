@@ -1,6 +1,8 @@
 ### ✨ Who am I?
 ### My name is Ozod and I am a school student. My goals for the future are huge. God willing, I will be a great IT expert!
-### 🔗 My instagram account: <a href="https://logowik.com/instagram-vector-logo-2-2703.html"><img src="https://logowik.com/content/uploads/images/664_instagram.jpg" width="100px" height="20px" background-size="cover"></a> [@avazovic___](https://instagram.com/avazovic___/)
+### 🔗 My instagram account: <a href="https://linkedin.com/in/adityajaiswal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
+<a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a> [@avazovic___](https://instagram.com/avazovic___/)
 ### 💻 Technologies that I use:
 
 <div display="flex">

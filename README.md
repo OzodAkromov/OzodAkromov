@@ -1,6 +1,6 @@
 ### ✨ Who am I?
 ### My name is Ozod and I am a school student. My goals for the future are huge. God willing, I will be a great IT expert!
-### 🔗 My instagram account: <a href="https://logowik.com/instagram-vector-logo-2-2703.html"><img src="https://logowik.com/content/uploads/images/664_instagram.jpg" width="100px" height="100px"></a> [@avazovic___](https://instagram.com/avazovic___/)
+### 🔗 My instagram account: <a href="https://logowik.com/instagram-vector-logo-2-2703.html"><img src="https://logowik.com/content/uploads/images/664_instagram.jpg" width="100px" height="20px"></a> [@avazovic___](https://instagram.com/avazovic___/)
 ### 💻 Technologies that I use:
 
 <div display="flex">
